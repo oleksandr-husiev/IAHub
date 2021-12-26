@@ -1,4 +1,4 @@
-[<-- Вернуться на предыдущую страницу](./)
+[<-- Вернуться на предыдущую страницу](../)
 
 [Официальный канал Rockwell Automation](https://www.youtube.com/c/RockwellautomationInc/videos)
 
