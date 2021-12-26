@@ -1,6 +1,6 @@
 # **Информационные материалы _ALLEN BRADLEY / ROCKWELL AUTOMATION_**
 
-Вернуться на [главную страницу](/index.md)
+Вернуться на [главную страницу](IAHub/index.md)
 
 [Контроллеры MicroLogix 850](https://www.rockwellautomation.com/en-us/products/hardware/allen-bradley/programmable-controllers/micro-controllers/micro800-family/micro850-controllers.html)
 
