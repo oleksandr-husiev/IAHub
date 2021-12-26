@@ -12,3 +12,5 @@
 ### Материалы и документация Siemens Industrial Automation and Drives
 
 ### Обучающие материалы Terawatt Group
+
+[_Информация для разработчиков_](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
