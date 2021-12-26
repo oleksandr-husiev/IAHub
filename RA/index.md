@@ -20,4 +20,4 @@
 ![](/RA/media/PAC_5580.png) 
 [Контроллеры ControlLogix 5580](https://www.rockwellautomation.com/en-us/products/hardware/allen-bradley/programmable-controllers/large-controllers/controllogix/1756controllogix5580.html)
 
-[Полезные видео](/Video/index.md)
+[Полезные видео](RA/Video/index.md)
