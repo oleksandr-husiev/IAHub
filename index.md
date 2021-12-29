@@ -13,4 +13,10 @@
 
 ### Обучающие материалы Terawatt Group
 
+### Проверка знаний онлайн: [тестовая версия](https://create.kahoot.it/share/computer-science-computing/784b3367-6375-4aa7-a7e0-ef28c7b77b85)
+
+
+
+_____________________________________________________________________________
+
 [_Информация для разработчиков_](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
